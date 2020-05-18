@@ -9,6 +9,9 @@
 > Spin roulette and game will pick random karaoke song from youtube. Application has prebuild English / Russian song playlists.
 >
 
+## Application preview
+![App Preview](https://raw.githubusercontent.com/zikju/vue-karaoke-roulette/master/src/assets/page_preview.jpg)
+
 ## Build Setup
 
 ``` bash
