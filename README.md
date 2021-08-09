@@ -4,9 +4,9 @@
 >
 > Insert players names and select game mode: `Duo` or `Solo`. Game will randomly pick who will be singing next!
 > 
-> Forever alone? No worries! Application has `Only Songs` game mode.
+> Forever alone? No worries! Application comes with `Only Songs` game mode.
 >
-> Spin roulette and game will pick random karaoke song from youtube. Application has prebuild English / Russian song playlists.
+> Spin roulette and game will pick random karaoke song from youtube. Application is prebuild with English / Russian song playlists.
 >
 
 ## Application preview
